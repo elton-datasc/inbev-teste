@@ -1,0 +1,9 @@
+{
+	"name": "inbev-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bd56f82-b5b9-45de-af45-e0f8c6926051",
+		"tenantId": "cc1ec62c-0411-4afb-a12a-a1b2e028414a"
+	}
+}
