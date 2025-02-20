@@ -1,0 +1,20 @@
+{
+	"name": "ls_adb",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-450134952211455.15.azuredatabricks.net",
+			"accessToken": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "inbevtest_key_vault",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "secret-dbw-key",
+				"secretVersion": "b79acc9cb1b4497a94d5f2b9f80ea812"
+			},
+			"existingClusterId": "0220-114429-ncoixujk"
+		}
+	}
+}
