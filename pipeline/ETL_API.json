@@ -201,7 +201,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/elton-guilherme@hotmail.com/inbev-teste/ETL Inbev (1)"
+					"notebookPath": "/Users/elton-guilherme@hotmail.com/inbev-teste/ETL Inbev"
 				},
 				"linkedServiceName": {
 					"referenceName": "ls_adb",
